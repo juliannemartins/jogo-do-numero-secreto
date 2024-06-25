@@ -49,7 +49,7 @@ function exibirTextoNaTela(tag, texto){
 function exibirMensagemInicial(){
     //chamando a função
     exibirTextoNaTela('h1', 'Jogo do número secreto');
-    exibirTextoNaTela('p', `Escolha um número entre 1 e ${numeroLimite}`);
+
 }
 
 exibirMensagemInicial();
@@ -83,8 +83,7 @@ function reiniciarJogo(){
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
 
-//criando conflito 
-//um dois tres
+
 
 
 
