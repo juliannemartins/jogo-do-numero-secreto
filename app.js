@@ -83,7 +83,8 @@ function reiniciarJogo(){
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
 
-
+//criando conflito 
+//um dois tres
 
 
 
